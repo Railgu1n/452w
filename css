@@ -4,7 +4,7 @@
     <meta charset="UTF-8">  
     <title>self-introduction</title>  
     <script>  
-        document.write('<div class="navbar"><a href="Jeffrey1.html">page1</a> | <a href="Jeffrey2.html">page2</a> | <a href="Jeffrey3.html">page3</a></div>');  
+        document.write('<div class="navbar"><a href="https://railgu1n.github.io/452q/">page1</a> | <a href="https：//railgu1n.github.io/452w/">page2</a> | <a href="https：//railgu1n.github.io/452r/">page3</a></div>');  
     </script>  
 </head>  
 <body>  
