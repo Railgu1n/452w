@@ -1,5 +1,4 @@
-<!DOCTYPE html>  
-<html lang="zh">  
+ <html lang="zh">  
 <head>  
     <meta charset="UTF-8">  
     <title>webpage</title>  
@@ -11,11 +10,7 @@
         <a href="https://railgu1n.github.io/452r/">Page 3</a>  
     </div>  
 </body>  
-</html>  
-    <!-- 其他内容 -->  
-</body>  
 </html>
-<!DOCTYPE html>
 <html>
 <head>
 <style>
