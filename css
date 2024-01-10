@@ -2,12 +2,16 @@
 <html lang="zh">  
 <head>  
     <meta charset="UTF-8">  
-    <title>self-introduction</title>  
-    <script>  
-        document.write('<div class="navbar"><a href="https://railgu1n.github.io/452q/">page1</a> | <a href="https：//railgu1n.github.io/452w/">page2</a> | <a href="https：//railgu1n.github.io/452r/">page3</a></div>');  
-    </script>  
+    <title>webpage</title>  
 </head>  
 <body>  
+    <div class="navbar">  
+        <a href=" https://railgu1n.github.io/452q/">Page 1</a> |  
+        <a href="https://railgu1n.github.io/452w/">Page 2</a> |  
+        <a href="https://railgu1n.github.io/452r/">Page 3</a>  
+    </div>  
+</body>  
+</html>  
     <!-- 其他内容 -->  
 </body>  
 </html>
